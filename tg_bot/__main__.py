@@ -24,7 +24,7 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 
 My future updates will be put into This Channel - @vkprojects & My Support Group @vkpbots.
 
-This is my [Deploy Code](https://t.me/vkpbots),
+This is my [Deploy Code](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FVivektp%2FMarie-2.0-English&template=https%3A%2F%2Fgithub.com%2FVivektp%2FMarie-2.0-English),
 you can create clone same like me..
 
 For more commands click /help...
