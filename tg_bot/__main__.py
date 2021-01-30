@@ -18,19 +18,11 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
-
-im a group manager bot maintained by  [this person](tg://user?id={}).
+hoi {}, my name is {}!  I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
 
 My future updates will be put into This Channel - @vkprojects & My Support Group @vkpbots.
 
-This is my [Deploy Code](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FVivektp%2FMarie-2.0-English&template=https%3A%2F%2Fgithub.com%2FVivektp%2FMarie-2.0-English),
-you can create clone same like me..
-
-For more commands click /help...
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
-
+For more commands click /help ,
 """
 
 HELP_STRINGS = """
